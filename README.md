@@ -5,7 +5,7 @@ Bilibili-Age-Calculator是用Python编写的，也就是说你的电脑必须得
 
    百度网盘链接: https://pan.baidu.com/s/1fZWwJwGO3JJh9JJAVJGLkA 提取码: bx8v
 
-   腾讯微云https://share.weiyun.com/T1TkqUHL
+   腾讯微云https://share.weiyun.com/T1TkqUHL （不建议，可能加载不出来）
 
    语言：英文 中文
   
