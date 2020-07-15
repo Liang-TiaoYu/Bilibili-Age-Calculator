@@ -10,7 +10,6 @@ Link: https://pan.baidu.com/s/1fZWwJwGO3JJh9JJAVJGLkA Extraction code: bx8v
 Tencent Weiyun：
 https://share.weiyun.com/T1TkqUHL
 
-#Bilibili-年龄-计算器。
 Bilibili年龄计算器是用python编写的。
 让人们玩和让计算机玩(重复10次)是针对https://www.bilibili.com/video/BV1eA411q7C6 编写的
 我在制作自己的表格时想出了一个简单的版本。
