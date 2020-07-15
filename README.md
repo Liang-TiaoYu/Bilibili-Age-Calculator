@@ -8,7 +8,7 @@ Download address:
 Baidu Netdisk：
 Link: https://pan.baidu.com/s/1fZWwJwGO3JJh9JJAVJGLkA Extraction code: bx8v
 Tencent Weiyun：
-https://share.weiyun.com/T1TkqUHL
+https://share.weiyun.com/T1TkqUHL(not recommended, it may not be loaded)
 
 Bilibili年龄计算器是用python编写的。
 让人们玩和让计算机玩(重复10次)是针对https://www.bilibili.com/video/BV1eA411q7C6 编写的
@@ -19,5 +19,5 @@ Bilibili年龄计算器是用python编写的。
 百度网盘：
 链接：https://pan.baidu.com/s/1fZWwJwGO3JJh9JJAVJGLkA解压代码：bx8v。
 腾讯微云：
-https://share.weiyun.com/T1TkqUHL
+https://share.weiyun.com/T1TkqUHL （不建议，可能加载不出来）
 （作者懒得再写一次，直接用翻译器翻译的）
